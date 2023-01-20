@@ -11,7 +11,7 @@ I then shifted my career path to work as government agency at a Central Bank of 
 ## What I hope to learn
 In this era of big data, we can not deny that data is everywhere and waiting for us to explore and extract the meaningful insight from it. However, interestingly that even we use the most complexity of ML or AI model, the result can be meaningless without the good visualization. Thus, I personally think that learning how to digest those complexity and visualize them in a way that helps the audiences see and gain better understand of story behind data is very important. I hope that I can learn how to create the right visualization that can bring everyone to the same page, regardless of who they are and where they are from.
 
-My plan after the graduation is to go back to Thailand and continue my role as an senior examiner at the central bank. Regardless, I expect that the knowledge and experiences that I have gained from CMU will bring a great change to my organization. My goal is to harness data and technology to provide better financial sustainable development to my country.
+My plan after the graduation is to go back to Thailand and continue my role as an senior examiner at the central bank. Regardless, I expect that the knowledge and experiences that I have gained from CMU will bring a great change to my organization as my goal is to harness data and technology to provide better financial sustainable development to my country.
 
 ## Portfolio
 Here is my portfolio. I am so excited to share it with you!
