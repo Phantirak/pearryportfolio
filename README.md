@@ -18,4 +18,3 @@ Here is my portfolio. I am so excited to share it with you!
 * Assignment 2
 * Assignment 3
 * Final Project
-
