@@ -15,3 +15,6 @@ My plan after the graduation is to go back to Thailand and continue my role as a
 
 ## Portfolio
 Here is my portfolio. I am so excited to share it with you!
+* Assignment 2
+* Assignment 3
+* Final Project
